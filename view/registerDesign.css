@@ -1,0 +1,35 @@
+
+	body  
+	{  
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#f2f2f2;  
+    font-family: 'Times New Roman';  
+	font-size:100%;
+	}  
+	.register
+	{  
+        width: 500px;  
+        margin: auto;  
+        margin: 10 0 0 380px;  
+        padding: 15px;  
+        background-color: #80DEEA ;  
+        
+		border-style:groove;
+		border-color:black;	
+		display:
+          
+	}  
+	
+	.register_button{  
+    width: 130px;  
+    height: 25px;  
+    border: double;  
+    border-radius: 10px;  
+    padding-left: 7px;  
+    color:black;
+    border-color:#3CB371;
+	font-family: 'Times New Roman';  
+	font-size:100%;	
+	}  

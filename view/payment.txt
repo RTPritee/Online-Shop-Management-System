@@ -1,0 +1,20 @@
+...........Ordered Items...........
+
+
+1)APPLE/আপেল
+2)MANGO/আম
+3)DALIM/ডালিম
+4)ORANGE/মাল্টা
+5)GRAPE/আঙ্গুর
+
+
+Pay by        :Credit Card
+Total Price   :800tk
+Discount      :200tk
+Amount paid   :600tk
+Due Amount    :0tk
+Payment Status:Completed
+
+
+
+

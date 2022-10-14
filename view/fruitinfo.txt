@@ -1,0 +1,47 @@
+################Item-1################
+Name:APPLE/আপেল
+Price:120tk (1kg)
+
+################Item-2################
+Name:BANANA/কলা
+Price:80tk (1Dozens)
+
+################Item-3################
+Name:DALIM/ডালিম
+220tk (1kg)
+
+################Item-4################
+Name:GRAPE/আঙ্গুর
+Price:180tk (1kg)
+
+################Item-5################
+Name:JACKFRUIT/কাঁঠাল
+Price:110tk (1Piece)
+
+################Item-6################
+Name:CARAMBOLA/কামরাঙা
+Price:60tk (250gm)
+
+################Item-7################
+Name:PAPAYA/পেঁপে
+Price:30tk (500gm)
+
+################Item-8################
+Name:GUAVA/পেয়ারা
+Price:80tk (1Haley)
+
+################Item-9################
+Name:PINEAPPLE/আনারস
+Price:40tk (1piece midium size)
+
+################Item-10################
+Name:MANGO/আম
+Price:110tk (500gm)
+
+################Item-11################
+Name:ORANGE/মাল্টা
+Price:170tk (500gm)
+
+################Item-12################
+Name:WATERMILON/তরমুজ
+Price:220tk (1piece)

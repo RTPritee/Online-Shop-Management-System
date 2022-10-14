@@ -1,0 +1,38 @@
+**************Added Item-1**************
+Name:APPLE/আপেল
+Offer:10%
+Quantity:1kg
+
+
+**************Added Item-2**************
+Name:MANGO/আম
+Offer:No offer Available
+Quantity:500gm
+
+
+
+**************Added Item-3**************
+Name:DALIM/ডালিম
+Offer:5%
+Quantity:1kg
+
+
+
+**************Added Item-4**************
+Name:ORANGE/মাল্টা
+Offer:10%
+Quantity:500gm
+
+
+
+**************Added Item-5**************
+Name:GRAPE/আঙ্গুর
+Offer:No Offer Available
+Quantity:1kg
+
+
+
+###### Total Price - 800tk
+###### Discount    - 200tk
+###### Need to Pay - 600tk
+

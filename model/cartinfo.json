@@ -1,0 +1,34 @@
+{
+	"cart":[
+	{
+		"name":"APPLE",
+		"qua":"1 kg",
+		"offer":"10%"
+		
+	},
+	{
+		"name":"MANGO",
+		"qua":"500 gm",
+		"offer":"No Offer"
+		
+	},
+	{
+		"name":"DALIM",
+		"qua":"1 kg",
+		"offer":"5%"
+		
+	},
+	{
+		"name":"ORANR",
+		"qua":"500gm",
+		"offer":"10%"
+		
+	},
+	{
+		"name":"GRAPE",
+		"qua":"1 kg",
+		"offer":"No Offer"
+		
+	}
+	]
+}

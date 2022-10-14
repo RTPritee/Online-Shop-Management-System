@@ -1,0 +1,17 @@
+**Added Item-1**
+Product Name : DALIM/ডালিম
+Price : 100tk
+Quantity : 20gm
+Discount : 5%
+Item type : Fruit
+image
+
+
+
+**Added Item-2**
+Product Name : Brinjal/বেগুন
+Price : 210tk
+Quantity:500gm
+Discount : 5%
+Item type : Vegetable
+image

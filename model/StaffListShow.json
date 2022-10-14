@@ -1,0 +1,45 @@
+{
+   "staff" : [
+   {
+   "id"   :  "001",
+   "name" : "Tom",
+   "joinningdate"  :  "01/05/2020",
+   "salary"  :  "5000",
+   "shift"   :  "Morning",
+   "bonus"   :  "900"
+  
+   
+   },
+     {
+   "id"   :  "002",
+   "name" : "Ali",
+   "joinningdate"  :  "01/05/2020",
+   "salary"  :  "5000",
+   "shift"   :  "Morning",
+   "bonus"   :  "900"
+  
+   
+   },
+   
+   {
+   "id"   :  "003",
+   "name" : "Jack",
+   "joinningdate"  :  "01/05/2020",
+   "salary"  :  "5000",
+   "shift"   :  "Morning",
+   "bonus"   :  "850"
+  
+   
+   },
+     {
+   "id"   :  "004",
+   "name" : "Harry",
+   "joinningdate"  :  "01/05/2020",
+   "salary"  :  "5000",
+   "shift"   :  "Morning",
+   "bonus"   :  "800"
+  
+   
+   }
+   ]
+}

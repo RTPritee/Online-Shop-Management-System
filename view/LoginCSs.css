@@ -1,0 +1,77 @@
+body
+{
+margin: 0;
+padding: 0;
+background-color:#f2f2f2;
+font-family: 'Times New Roman';
+font-size:110%;
+}
+.login
+{
+width: 320px;
+margin: auto;
+margin: 15 0 0 350px;
+padding: 30px;
+background-color: #98FB98;
+border-radius: 15px ;
+border-style:groove;
+border-color:black;
+position: relative;
+
+}
+
+label
+{
+color: black;
+font-size: 17px;
+}
+.up
+{
+width: 350px;
+height: 30px;
+font-family: 'Times New Roman';
+}
+.password{
+width: 300px;
+height: 30px;
+border: outset;
+border-radius: 3px;
+padding-left: 8px;
+border-color:#3CB371;
+
+}
+.log{
+width: 100px;
+height: 30px;
+border: outset;
+border-radius: 10px;
+padding-left: 7px;
+color:black;
+border-color:#3CB371;
+}
+span{
+color: black;
+font-size: 17px;
+
+}
+ #idForHead {
+background-color: #ffcc00;
+color: white;
+padding: 15px;
+text-align:center;
+font-family:courier;
+font-size:100%;
+} 
+.back{
+width: 45px;
+height: 25px;
+border: outset;
+border-radius: 10px;
+padding-left: 7px;
+color:black;
+float:center;
+border-color:#ffcc66;
+font-family: 'Times New Roman';  
+font-size:100%;
+	
+}

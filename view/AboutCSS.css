@@ -1,0 +1,34 @@
+	 .a {
+       background-color:#ffcc00;
+       color: black;
+       padding: 20px;
+       text-align:center;
+	   font-family:courier;
+	   font-size:310%;
+	 }
+	 .b{
+	   color: white;
+       padding: 8px;
+	   text-align:right;
+	   font-family:courier;
+	   font-size:100%;
+	 }
+	 .register
+	{  
+        width: 1080px;  
+        margin: auto;  
+        margin: 10 0 0 380px;  
+        padding: 15px;  
+        background-color: #98FB98;  
+        
+          
+	}  
+	 .footer {
+       background-color:#ffcc00;
+       color: black;
+       padding: 20px;
+       text-align:right;
+	   font-family:courier;
+	   font-size:80%;
+	   
+      }
